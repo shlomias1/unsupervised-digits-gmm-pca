@@ -26,7 +26,7 @@ The project also compares results to the **KMeans** clustering algorithm, and us
 
 ## Structure
 
-- `Ex2.ipynb` – The main notebook with full implementation, analysis, and visualizations.
+- `unsupervised-digits-gmm-pca.ipynb` – The main notebook with full implementation, analysis, and visualizations.
 - No external files required. Dataset is loaded from `sklearn.datasets.load_digits`.
 
 ---
