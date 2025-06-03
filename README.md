@@ -1,6 +1,5 @@
 
 
-````markdown
 # GMM from Scratch – Clustering Digits 0, 1, 2
 
 This project implements **Gaussian Mixture Model (GMM)** **from scratch** using the EM (Expectation-Maximization) algorithm to cluster handwritten digits **0**, **1**, and **2** from the `sklearn.datasets.load_digits()` dataset.
