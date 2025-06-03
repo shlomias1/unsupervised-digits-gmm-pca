@@ -8,7 +8,7 @@ The project also compares results to the **KMeans** clustering algorithm, and us
 
 ---
 
-## 🛠Key Features
+## Key Features
 
 - Dimensionality reduction using **PCA** (2 components)
 - Implementation of **GMM with EM algorithm**:
